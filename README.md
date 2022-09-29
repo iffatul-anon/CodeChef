@@ -1,2 +1,2 @@
 # CodeChef
-Solution of problems ~ 30+
+Problems ~ 30+
